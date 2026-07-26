@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Duitrack",
+  "description": "Offline-first personal financial tracker with daily safe-spend limits, expense \u0026 income tracking, CSV import/export, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
